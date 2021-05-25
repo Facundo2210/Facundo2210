@@ -16,8 +16,8 @@
   
   <code>
     <a href="https://res.cloudinary.com/facu/image/upload/v1621971466/Github/Facundo_Nicolas_Cordoba_Perez_nn02qy.jpg" target="_blank"> 
-      <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273444/Proyects/cv_ctuedj.svg" alt="CV" height="30"/> Curriculum ES
-  </a>
+      <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273444/Proyects/cv_ctuedj.svg" alt="CV" height="30"/> 
+  </a> <span> Curriculum ES </span>
 </code>
   
   <code>
