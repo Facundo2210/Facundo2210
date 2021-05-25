@@ -8,12 +8,23 @@
 
 <h3> > Meet me more at: </h3>
 
-  <code><a href="https://www.linkedin.com/in/pavegliobruno/" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273442/Proyects/linkedin_1_wfivod.svg" alt="Linkedin" height="30"/>
-    </a></code>
+  <code>
+  <a href="https://www.linkedin.com/in/facundocordobaperez/" target="_blank"> 
+    <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273442/Proyects/linkedin_1_wfivod.svg" alt="Linkedin" height="30"/> Linkedin
+  </a>
+</code>
   
-  <code><a href="https://drive.google.com/drive/folders/1ltpZjk-YCHUSK4JWtLGcPSjjm98nLtOa?usp=sharing" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273444/Proyects/cv_ctuedj.svg" alt="CV" height="30"/></a></code>
+  <code>
+    <a href="https://res.cloudinary.com/facu/image/upload/v1621971466/Github/Facundo_Nicolas_Cordoba_Perez_nn02qy.jpg" target="_blank"> 
+      <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273444/Proyects/cv_ctuedj.svg" alt="CV" height="30"/> Curriculum ES
+  </a>
+</code>
   
-  <code><a href="mailto:pavegliobruno@gmail.com" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621291618/Proyects/email_wyxjlw.svg" alt="Email" height="30"/></a></code>
+  <code>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&to=fanicope@hotmail.com&tf=cm" target="_blank">
+       <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621291618/Proyects/email_wyxjlw.svg" alt="Email" height="30"/>
+    </a>
+  </code>
 
 
 <h3> > Lenguages and Tools: </h3>
