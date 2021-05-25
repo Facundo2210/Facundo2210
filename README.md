@@ -2,17 +2,19 @@
   <a href="#" ><img src="https://res.cloudinary.com/facu/image/upload/v1621970612/Github/horizontal-github_bgvnmr.jpg"/></a>
 </p>
 
-<h1 align="center" width=75%>Hi! I'm Facundo Córdoba Pérez <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1620770700/Proyects/man-technologist-medium-skin-tone_1f468-1f3fd-200d-1f4bb_ezhs2f.png" width="30" /> </h1>
-<h3 align="center">I'm full stack developer, a proactive person committed to do what I propose</h3>
-<h3 align="center">with a big motivation to learn new technologies and improve my knowledge.</h3>
+<h1 align="center" width=75%>Hi! I'm Facundo Córdoba Pérez </h1>
+<h3 align="center">I'm a full stack developer, a versatile person committed to doing what I propose</h3>
+<h3 align="center">with a great motivation to learn new technologies and improve my knowledge at all times.</h3>
 
-<h3> > Where to find me: </h3>
-<p align="left">
-  <code><a href="https://www.linkedin.com/in/pavegliobruno/" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273442/Proyects/linkedin_1_wfivod.svg" alt="Linkedin" height="30"/></a></code>
-  <code><a href="https://drive.google.com/drive/folders/1ltpZjk-YCHUSK4JWtLGcPSjjm98nLtOa?usp=sharing" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273444/Proyects/cv_ctuedj.svg" alt="CV" height="30"/></a></code>
-  <code><a href="mailto:pavegliobruno@gmail.com" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621291618/Proyects/email_wyxjlw.svg" alt="Email" height="30"/></a></code>
+<h3> > Meet me more at: </h3>
+
+  <code><a href="https://www.linkedin.com/in/pavegliobruno/" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273442/Proyects/linkedin_1_wfivod.svg" alt="Linkedin" height="30"/>
+    </a></code>
   
-</p>
+  <code><a href="https://drive.google.com/drive/folders/1ltpZjk-YCHUSK4JWtLGcPSjjm98nLtOa?usp=sharing" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273444/Proyects/cv_ctuedj.svg" alt="CV" height="30"/></a></code>
+  
+  <code><a href="mailto:pavegliobruno@gmail.com" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621291618/Proyects/email_wyxjlw.svg" alt="Email" height="30"/></a></code>
+
 
 <h3> > Lenguages and Tools: </h3>
 
