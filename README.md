@@ -23,7 +23,7 @@
   <p><code>
     <a href="https://mail.google.com/mail/u/0/?fs=1&to=fanicope@hotmail.com&tf=cm" target="_blank">
        <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621291618/Proyects/email_wyxjlw.svg" alt="Email" height="30"/>
-    </a>
+    </a> <span> Mail </span>
   </code></p>
 
 
@@ -31,7 +31,7 @@
 
 <p align="left">
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30"/></a> JavaScript</code>
-  <code><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="30"/></a> HTML</code>
+  <code><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="30"/></a> <span> HTML </span></code>
   <code><a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="html5" height="30"/></a> CSS</code>
   <code><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="30"/></a> React</code>
   <code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/></a> Redux</code>
