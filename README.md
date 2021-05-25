@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#" ><img src="https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif"/></a>
+  <a href="#" ><img src="https://res.cloudinary.com/facu/image/upload/v1621970612/Github/horizontal-github_bgvnmr.jpg"/></a>
 </p>
 
 <h1 align="center" width=75%>Hey! I'm Bruno Paveglio <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1620770700/Proyects/man-technologist-medium-skin-tone_1f468-1f3fd-200d-1f4bb_ezhs2f.png" width="30" /> </h1>
