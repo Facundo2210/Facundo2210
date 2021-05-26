@@ -49,20 +49,23 @@
 
 <h3> > My projects: </h3>
 <p align="left">
-
- <a href="https://github.com/josegarrera/ecommerce" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" /></a>
+  
+   <a href="https://github.com/josegarrera/ecommerce" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" /></a>
  <span>Store! - E-commerce </span>
   <a href="https://github.com/josegarrera/ecommerce" >Repository</a> 
   <br>
+    <p>-           Ecommerce group project applying MERN method</p>
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
 <a href="https://github.com/josegarrera/ecommerce" ><img align="center" src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1620607840/Proyects/Store_dymrk7.png" width="500" /></a>
 
-<a href="https://github.com/Pavegliobruno/Videogames" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Videogames!</a>
+
+
+<a href="https://github.com/facundo2210/DogsApp" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Videogames!</a>
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
-<a href="https://github.com/Pavegliobruno/Videogames" ><img align="center" src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1620505242/Proyects/Proyecto_Individual_qgppfq.png" width="500" /></a>
+<a href="https://github.com/Facundo2210/DogsApp" ><img align="center" src="https://res.cloudinary.com/facu/image/upload/v1622032695/Github/perros_rg0cxa.png" width="500" height="300" /></a>
 
 <a href="https://" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Weather-App </a>
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
-<a href="https://" ><img align="center" src="https://images.unsplash.com/photo-1584824486516-0555a07fc511?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80" width="500" /></a>
+<a href="https:///github.com/facundo2210/DogsApp" ><img align="center" src="https://images.unsplash.com/photo-1584824486516-0555a07fc511?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80" width="500" /></a>
