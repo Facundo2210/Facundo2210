@@ -49,11 +49,10 @@
 
 <h3> > My projects: </h3>
 <p align="left">
- 
- <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
-  <span>Store! - E-commerce </span> <a href="https://github.com/josegarrera/ecommerce" > Repository 
-<img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" /></a>
 
+<a href="https://github.com/josegarrera/ecommerce" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Store! - E-commerce </a>
+
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
 <a href="https://github.com/josegarrera/ecommerce" ><img align="center" src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1620607840/Proyects/Store_dymrk7.png" width="500" /></a>
 
 <a href="https://github.com/Pavegliobruno/Videogames" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Videogames!</a>
