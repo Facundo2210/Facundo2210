@@ -48,8 +48,8 @@
 </p>
 
 <h3> > My projects: </h3>
-<p align="left">
 <img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />
+<p align="left">
  <p>|</p>
   <a href="https://github.com/josegarrera/ecommerce" >Store! - E-commerce </a>
 
