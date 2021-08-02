@@ -56,7 +56,7 @@
   <br>
     <p>-           Ecommerce group project applying MERN method</p>
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
-<a href="https://github.com/josegarrera/ecommerce" ><img align="center" src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1620607840/Proyects/Store_dymrk7.png" width="500" /></a>
+<a href="https://github.com/josegarrera/ecommerce" ><img align="center" src="https://camo.githubusercontent.com/692b9a817433ea2f320730c6446ae341f316fab97396feb97df468df1428e7fb/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646c657862726372762f696d6167652f75706c6f61642f76313632323132333830362f50726f79656374732f452d636f6d6d657263652f322d335f6b757668716a2e706e67" width="500" /></a>
 
 
 
