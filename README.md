@@ -60,10 +60,10 @@
 
 
 
-<a href="https://github.com/facundo2210/DogsApp" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Videogames!</a>
+<a href="https://github.com/facundo2210/DogSpaApp" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Doggy App</a>
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
-<a href="https://github.com/Facundo2210/DogsApp" ><img align="center" src="https://res.cloudinary.com/facu/image/upload/v1622032695/Github/perros_rg0cxa.png" width="500" height="300" /></a>
+<a href="https://github.com/Facundo2210/DogSpaApp" ><img align="center" src="https://raw.githubusercontent.com/Facundo2210/Portfolio/main/src/imagenes/dogHome.jpg" width="500" height="300" /></a>
 
 <a href="https://" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Weather-App </a>
 
